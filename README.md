@@ -46,12 +46,12 @@ This is a Mini CRM (Customer Relationship Management) Application developed usin
     - Add the following variables:
 
         env
-        MONGODB_URI=your_mongodb_connection_string
-        GOOGLE_CLIENT_ID=your_google_client_id
-        GOOGLE_CLIENT_SECRET=your_google_client_secret
-        SESSION_SECRET=your_session_secret
-        APP_USERNAME=given_username
-        APP_PASSWORD=given_password
+        MONGODB_URI=your_mongodb_connection_string, 
+        GOOGLE_CLIENT_ID=your_google_client_id, 
+        GOOGLE_CLIENT_SECRET=your_google_client_secret, 
+        SESSION_SECRET=your_session_secret, 
+        APP_USERNAME=given_username, 
+        APP_PASSWORD=given_password, 
         
 
 5. *Start the server*:
